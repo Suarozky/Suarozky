@@ -3,10 +3,13 @@
 <img src="https://cdn.discordapp.com/attachments/1138547567253266484/1216751798413693039/image.png?ex=6601876a&is=65ef126a&hm=3e29ba9cfb0db7291c1be90172393abbf3aafc3acc992dd50858723ec86cda52&" >
 <img src="https://cdn.discordapp.com/attachments/1138547567253266484/1216830613269774346/image.png?ex=6601d0d1&is=65ef5bd1&hm=be333edc01a8271d3e2cf1a48789a73cbb48ec60f81b76a06fed2ef1757d1cfe&"  >
 
-
+<h3>
 ¡Bienvenido a mi perfil de GitHub! Soy un amante de la tecnología y un entusiasta creador de experiencias digitales, buscando contribuir de manera significativa al campo del desarrollo de software. Mi pasión abarca desde el backend hasta la emocionante creación de videojuegos. Estoy emocionado por las oportunidades futuras y los desafíos que me esperan en esta apasionante travesía profesional.
+</h3>
 
-# 🚀 Sobre mí
+<h2>
+🚀 Sobre mí
+</h2>
 
 🌱 Siempre estoy aprendiendo sobre nuevas tecnologías.
 
@@ -19,24 +22,33 @@
 😎 Trabajo con tecnologías como Deno, Strapi, Prisma, Node.js y Express.
 
 
-## 💼 Experiencia
+<h2>
+ 💼 Experiencia
+</h2>
 
  [Programador Junior en C#]
  [Programador Junior en Backend]
 
 
-##equipment 💙
+<h2>
+ equipment 💙
+</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,html,deno,docker,dotnet,express,figma,git,github,graphql,js,ts,linux,prisma,mongodb,mysql,sqlite,nextjs,nodejs,postgres,postman,py,react,tailwind,discord,vercel,django,md,nginx,npm,vscode,visualstudio,unity&perline=12" />
   </a>
 </p>
-## 🌐 Encuéntrame en la web
+
+<h2>
+ 🌐 Encuéntrame en la web
+</h2>
 
  [Instagram](https://www.instagram.com/bdjsn09/?next=%2F)
 
-## 📚 Proyectos destacados
+<h2>
+ 📚 Proyectos destacados
+</h2>
 
  [Proyecto 1: Juego 2D Pixel-Art de aventura endless, como programador en C#],
  
@@ -44,7 +56,9 @@
  
  [Proyecto 3: Inicio de proyecto de una aplicación de asignación de tareas para una empresa, docificadora de proyectos paso a paso]
 
-## 📫 ¿Cómo contactarme?
+<h2>
+ 📫 ¿Cómo contactarme?
+</h2>
 
 Puedes enviarme un correo electrónico a [bbrayanssuarez@gmail.com].
 
