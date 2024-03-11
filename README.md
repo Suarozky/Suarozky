@@ -1,4 +1,3 @@
-<div align="center"><h1>Hola! 👋 Soy Brayan Suarez</h1></div>
 <div align="center"> 
 <img src="https://cdn.discordapp.com/attachments/1138547567253266484/1216751798413693039/image.png?ex=6601876a&is=65ef126a&hm=3e29ba9cfb0db7291c1be90172393abbf3aafc3acc992dd50858723ec86cda52&" >
 <img src="https://cdn.discordapp.com/attachments/1138547567253266484/1216830613269774346/image.png?ex=6601d0d1&is=65ef5bd1&hm=be333edc01a8271d3e2cf1a48789a73cbb48ec60f81b76a06fed2ef1757d1cfe&"  >
