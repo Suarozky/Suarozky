@@ -1,7 +1,8 @@
 <div align="center"><h1>Hola! 👋 Soy Brayan Suarez</h1></div>
 
 <div align="center"> 
-<img src="https://i.pinimg.com/564x/30/e1/dd/30e1dd19b3f6ba37ac17dcdc12781f95.jpg" width="1000">
+<img src="https://cdn.discordapp.com/attachments/1138547567253266484/1216751798413693039/image.png?ex=6601876a&is=65ef126a&hm=3e29ba9cfb0db7291c1be90172393abbf3aafc3acc992dd50858723ec86cda52&" >
+<img src="https://i.pinimg.com/564x/38/0c/f9/380cf93c6fab259927f845f6045e7e95.jpg" width="800">
 
 ¡Bienvenido a mi perfil de GitHub! Soy un amante de la tecnología y un entusiasta creador de experiencias digitales, buscando contribuir de manera significativa al campo del desarrollo de software. Mi pasión abarca desde el backend hasta la emocionante creación de videojuegos. Estoy emocionado por las oportunidades futuras y los desafíos que me esperan en esta apasionante travesía profesional.
 
