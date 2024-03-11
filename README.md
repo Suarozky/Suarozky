@@ -6,13 +6,18 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un amante de la tecnología y un entusiasta creador de experiencias digitales, buscando contribuir de manera significativa al campo del desarrollo de software. Mi pasión abarca desde el backend hasta la emocionante creación de videojuegos. Estoy emocionado por las oportunidades futuras y los desafíos que me esperan en esta apasionante travesía profesional.
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
-- 🌱 Siempre estoy aprendiendo sobre nuevas tecnologías.
-- 🤨 Soy estudiante de ingenieria mecatronica
-- 🤓 Manejo de bases de datos como PostgreSQL, MongoDB, SQLite y ORMs como Prisma.
-- 🫡 Experiencia en lenguajes como TypeScript, JavaScript y C#.
-- 😎 Trabajo con tecnologías como Deno, Strapi, Prisma, Node.js y Express.
+🌱 Siempre estoy aprendiendo sobre nuevas tecnologías.
+
+🤨 Soy estudiante de ingenieria mecatronica
+
+🤓 Manejo de bases de datos como PostgreSQL, MongoDB, SQLite y ORMs como Prisma.
+
+🫡 Experiencia en lenguajes como TypeScript, JavaScript y C#.
+
+😎 Trabajo con tecnologías como Deno, Strapi, Prisma, Node.js y Express.
+
 
 ## 💼 Experiencia
 
@@ -33,8 +38,10 @@
 
 ## 📚 Proyectos destacados
 
- [Proyecto 1: Juego 2D Pixel-Art de aventura endless, como programador en C#]
- [Proyecto 2: API que manejaba la información de partidas y sesiones de Polar, como programador backend en TypeScript (Deno) y PostgreSQL]
+ [Proyecto 1: Juego 2D Pixel-Art de aventura endless, como programador en C#],
+ 
+ [Proyecto 2: API que manejaba la información de partidas y sesiones de Polar, como programador backend en TypeScript (Deno) y PostgreSQL],
+ 
  [Proyecto 3: Inicio de proyecto de una aplicación de asignación de tareas para una empresa, docificadora de proyectos paso a paso]
 
 ## 📫 ¿Cómo contactarme?
