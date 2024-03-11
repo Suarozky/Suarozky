@@ -58,6 +58,10 @@
 
 <h2>
  📫 ¿Cómo contactarme?
+<div align="left">
+  <a href="https://www.linkedin.com/in/brayan-suarez-4012882b0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unsimpledev"/></a>
+  <a href="https://github.com/Suarozky" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"/></a>
+</div>
 </h2>
 
 Puedes enviarme un correo electrónico a [bbrayanssuarez@gmail.com].
