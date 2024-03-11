@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,apollo,cs,css,deno,docker,dotnet,express,figma,firebase,git,github,graphql,html,js,kubernetes,linux,mongodb,mysql,nextjs,nodejs,postgres,postman,py,react,tailwind,ts,discord,vercel,visualstudio,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,html,deno,docker,dotnet,express,figma,git,github,graphql,js,ts,linux,prisma,mongodb,mysql,sqlite,nextjs,nodejs,postgres,postman,py,react,tailwind,discord,vercel,django,md,nginx,npm,vscode,visualstudio,unity&perline=12" />
   </a>
 </p>
 ## 🌐 Encuéntrame en la web
