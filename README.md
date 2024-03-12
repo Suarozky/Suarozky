@@ -14,11 +14,11 @@
 
 ### 🤨 Soy estudiante de ingenieria mecatronica
 
-### 🤓 Manejo de bases de datos como PostgreSQL, MongoDB, SQLite y ORMs como Prisma.
+### 🤓 Manejo de bases de datos como PostgreSQL, MongoDB, SQLite y ORMs como Prisma y typeOrm.
 
-### 🫡 Experiencia en lenguajes como TypeScript, JavaScript y C#.
+### 🫡 Experiencia en lenguajes como TypeScript, JavaScript ,python y C#.
 
-### 😎 Trabajo con tecnologías como Deno, Strapi, Prisma, Node.js y Express.
+### 😎 Trabajo con tecnologías como Deno, Strapi, Prisma, Node.js, Django, Flask y Express.
 
 
 <h2>
@@ -59,7 +59,6 @@
 Puedes enviarme un correo electrónico a [bbrayanssuarez@gmail.com].
 
 ¡Gracias por visitar mi perfil!
-
 
 
 
