@@ -25,9 +25,11 @@
  💼 Experiencia
 </h2>
 
- [Programador Junior en C#]
- [Programador Junior en Backend]
-
+ [Desarollador de juegos 2D de plataforma, de tipo endless e hipercasuales],
+ [Desarollador de aplicacion de tareas entre equipo],
+ [Desarollador de aplicacion de torneos entre equipos por puntos],
+ [Desarollador de pagina Web de publicaciones especificas(poemas)],
+ [Desarollador de fronted de pokedex y filtro de las mismas ],
 
 <h2>
  equipment 💙
@@ -44,16 +46,6 @@
 </h2>
 
  [Instagram](https://www.instagram.com/bdjsn09/?next=%2F)
-
-<h2>
- 📚 Proyectos destacados
-</h2>
-
- [Proyecto 1: Juego 2D Pixel-Art de aventura endless, como programador en C#],
- 
- [Proyecto 2: API que manejaba la información de partidas y sesiones de Polar, como programador backend en TypeScript (Deno) y PostgreSQL],
- 
- [Proyecto 3: Inicio de proyecto de una aplicación de asignación de tareas para una empresa, docificadora de proyectos paso a paso]
 
 <h2>
  📫 ¿Cómo contactarme?
