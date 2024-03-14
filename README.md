@@ -7,30 +7,16 @@
 </h3>
 
 <h2>
-🚀 Sobre mí
-</h2>
-
-### 🌱 Siempre estoy aprendiendo sobre nuevas tecnologías.
-
-### 🤨 Soy estudiante de ingenieria mecatronica
-
-### 🤓 Manejo de bases de datos como PostgreSQL, MongoDB, SQLite y ORMs como Prisma y typeOrm.
-
-### 🫡 Experiencia en lenguajes como TypeScript, JavaScript ,python y C#.
-
-### 😎 Trabajo con tecnologías como Deno, Strapi, Prisma, Node.js, Django, Flask y Express.
-
-
-<h2>
  💼 Experiencia
 </h2>
 
- ### [Desarollador de juegos 2D de plataforma, de tipo endless e hipercasuales],
- ### [Desarollador de aplicacion de tareas entre equipo],
- ### [Desarollador de aplicacion de torneos entre equipos por puntos],
- ### [Desarollador de pagina Web de publicaciones especificas(poemas)],
- ### [Desarollador de fronted de pokedex y filtro de las mismas ],
-
+| Tipo de Desarrollador                                  | Descripción                                                  |
+|--------------------------------------------------------|--------------------------------------------------------------|
+| Desarrollador de juegos 2D de plataforma               | Tipo endless e hipercasuales                                 |
+| Desarrollador de aplicación de tareas entre equipos    | juegos ESports                                               |
+| Desarrollador de aplicación de torneos entre equipos   | Por puntos                                                   |
+| Desarrollador de página web de publicaciones específicas (poemas) | manejo de usuarios publicacions y bases de datos  |
+| Desarrollador de frontend de Pokédex y filtro          | fronted para practica de consumo de apis                     |
 <h2>
  equipment 💙
 </h2>
