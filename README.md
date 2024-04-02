@@ -1,6 +1,6 @@
 <div align="center"> 
 <img src="https://cdn.discordapp.com/attachments/1138547567253266484/1216751798413693039/image.png?ex=6601876a&is=65ef126a&hm=3e29ba9cfb0db7291c1be90172393abbf3aafc3acc992dd50858723ec86cda52&" width="2000" >
-<img src="https://i.pinimg.com/564x/f2/6d/6c/f26d6cdc1c9e8f390ea505f0f9d1a22d.jpg" width="2000" >
+<img src="https://i.pinimg.com/564x/65/01/2a/65012a6622f03842d05ef5aea5616698.jpg" width="2000" >
 
 <h3>
 ¡Bienvenido a mi perfil de GitHub! Soy un amante de la tecnología y un entusiasta creador de experiencias digitales, buscando contribuir de manera significativa al campo del desarrollo de software. Mi pasión abarca desde el backend hasta la emocionante creación de videojuegos. Estoy emocionado por las oportunidades futuras y los desafíos que me esperan en esta apasionante travesía profesional.
