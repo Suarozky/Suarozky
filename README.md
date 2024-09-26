@@ -1,5 +1,4 @@
 <div align="center"> 
-<img src="https://cdn.discordapp.com/attachments/1138547567253266484/1216751798413693039/image.png?ex=6601876a&is=65ef126a&hm=3e29ba9cfb0db7291c1be90172393abbf3aafc3acc992dd50858723ec86cda52&" width="2000" >
 <img src="https://i.pinimg.com/564x/65/01/2a/65012a6622f03842d05ef5aea5616698.jpg" width="2000" >
 
 <h3>
@@ -32,6 +31,8 @@
 </h2>
 
  [Instagram](https://www.instagram.com/bdjsn09/?next=%2F)
+ <a href="https://portfolio-51dp.vercel.app/">
+ <a>
 
 <h2>
  📫 ¿Cómo contactarme?
