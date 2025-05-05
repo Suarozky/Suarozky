@@ -1,52 +1,78 @@
 <div align="center"> 
-<img src="https://i.pinimg.com/564x/65/01/2a/65012a6622f03842d05ef5aea5616698.jpg" width="2000" >
+<img src="https://i.pinimg.com/564x/65/01/2a/65012a6622f03842d05ef5aea5616698.jpg" width="800">
 
-<h3>
-¡Bienvenido a mi perfil de GitHub! Soy un amante de la tecnología y un entusiasta creador de experiencias digitales, buscando contribuir de manera significativa al campo del desarrollo de software. Mi pasión abarca desde el backend hasta la emocionante creación de videojuegos. Estoy emocionado por las oportunidades futuras y los desafíos que me esperan en esta apasionante travesía profesional.
-</h3>
+# Brayan Suarez | Desarrollador Full Stack & Game Developer
 
-<h2>
- 💼 Experiencia
-</h2>
+### Sobre mí
+Desarrollador apasionado por la tecnología y la creación de experiencias digitales innovadoras. Mi experiencia abarca desde el desarrollo backend hasta la creación de videojuegos. Busco constantemente nuevos desafíos que me permitan aplicar mi creatividad y habilidades técnicas para crear soluciones que impacten positivamente en los usuarios.
 
-| Tipo de Desarrollador                                  | Descripción                                                  |
-|--------------------------------------------------------|--------------------------------------------------------------|
-| Desarrollador de juegos 2D de plataforma               | Tipo endless e hipercasuales                                 |
-| Desarrollador de aplicación de tareas entre equipos    | juegos ESports                                               |
-| Desarrollador de aplicación de torneos entre equipos   | Por puntos                                                   |
-| Desarrollador de página web de publicaciones específicas (poemas) | manejo de usuarios publicacions y bases de datos  |
-| Desarrollador de frontend de Pokédex y filtro          | fronted para practica de consumo de apis                     |
-<h2>
- equipment 💙
-</h2>
+</div>
+
+## 💼 Experiencia Profesional
+
+### Programador Full Stack | Flurts
+#### Enero 2024 - Junio 2024
+- Lideré el desarrollo de un sistema de gestión de empleados, optimizando la carga de trabajo
+- Implementé backend con NestJS y TypeORM, frontend con Next.js y TailwindCSS
+- Utilicé TypeScript para garantizar código limpio y tipado en todo el proyecto
+
+### Desarrollador Full Stack | Vakano Studio
+#### Agosto 2022 - Enero 2024
+- Desarrollé el backend de Polar Adventures con PostgreSQL y Node.js
+- Automaticé el despliegue en AWS EC2 usando GitHub Actions
+- Lideré el desarrollo de una plataforma de apuestas con módulos para administración de usuarios, clasificación, premios y pasarela de pagos
+- Creé una página interactiva con Next.js y TailwindCSS para un evento de juegos
+- Colaboré estrechamente con clientes para satisfacer sus necesidades específicas
+
+### Desarrollador Full Stack | AENSTECH, Colombia
+#### Febrero 2022 - Agosto 2022
+- Instruí a estudiantes de programación interesados en mejorar sus conocimientos en la introducción al mundo de la programación
+- Colaboré en un proyecto con la alcaldía local
+- Apoyé en la conectividad de estudiantes de ciudades vecinas, brindándoles su primera experiencia en programación
+
+## 🛠️ Stack Tecnológico
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,html,deno,docker,dotnet,express,figma,git,github,graphql,js,ts,linux,prisma,mongodb,mysql,sqlite,nextjs,nodejs,postgres,postman,py,react,tailwind,discord,vercel,django,md,nginx,npm,vscode,visualstudio,unity&perline=12" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,html,docker,dotnet,express,figma,git,github,graphql,js,ts,linux,prisma,mongodb,mysql,sqlite,nextjs,nodejs,postgres,postman,py,react,tailwind,discord,vercel,django,md,nginx,npm,vscode,visualstudio,unity&perline=12" />
   </a>
 </p>
 
-<h2>
- 🌐 Encuéntrame en la web
-</h2>
+## 🚀 Proyectos Destacados
 
- [Instagram](https://www.instagram.com/bdjsn09/?next=%2F)
- <a href="https://portfolio-51dp.vercel.app/">
- <a>
+- **[Portfolio Personal](https://portfolio-51dp.vercel.app/)** - Explora mis proyectos y habilidades en detalle
+- **[GitHub Repositories](https://github.com/Suarozky)** - Revisa mi código y contribuciones
 
-<h2>
- 📫 ¿Cómo contactarme?
-<div align="left">
-  <a href="https://www.linkedin.com/in/brayan-suarez-4012882b0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unsimpledev"/></a>
-  <a href="https://github.com/Suarozky" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"/></a>
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suarozky&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suarozky&theme=radical" alt="GitHub Streak" />
 </div>
- <img src="https://camo.githubusercontent.com/8f64cdabd077b31a5216727abe0baa83c46511c56ca124ce36ae57aab4a4cbe7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d64657665656d707479267374796c653d666c61742d737175617265266c6162656c3d56697369746f7273" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Suarozky&amp;style=flat-square&amp;label=Visitors" style="max-width: 100%;">
-</h2>
 
-Puedes enviarme un correo electrónico a [bbrayanssuarez@gmail.com].
+## 📫 Contáctame
 
-¡Gracias por visitar mi perfil!
+<div align="center">
+  <a href="https://www.linkedin.com/in/brayan-suarez-4012882b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Suarozky" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/bdjsn09/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:bbrayanssuarez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suarozky&style=flat-square&color=blueviolet&label=Visitantes" alt="Contador de visitas">
+</div>
 
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1138547567253266484/1216757092979966053/image.png?ex=66018c59&is=65ef1759&hm=936c8a06a6d476f6068a5062c05c29a56806af1cb83478517950fb512241c4b1&=&format=webp&quality=lossless" width="800">
+</div>
 
-<img class="mt-80" src="https://media.discordapp.net/attachments/1138547567253266484/1216757092979966053/image.png?ex=66018c59&is=65ef1759&hm=936c8a06a6d476f6068a5062c05c29a56806af1cb83478517950fb512241c4b1&=&format=webp&quality=lossless" width="800">
+<!-- Gracias por visitar mi perfil! -->
